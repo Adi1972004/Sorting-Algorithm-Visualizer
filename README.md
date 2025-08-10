@@ -25,9 +25,10 @@ A **Python Tkinter GUI Application** that visually demonstrates various sorting 
 ---
 
 ## 📸 Preview
-> *(Add a GIF or screenshot here after recording your app)*
-Example:
-![Sorting Visualizer Demo](Demonstration.mp4)
+Watch the sorting visualizer in action:
+
+![Sorting Visualizer Demo](Demonstration.gif)
+
 
 ---
 
