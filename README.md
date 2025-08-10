@@ -1,5 +1,3 @@
-# Sorting-Algorithm-Visualizer
-A Python Tkinter sorting algorithm visualizer with multiple algorithms and performance tracking.
 # 🖥️ Sorting Algorithm Visualizer 🎨📊
 
 A **Python Tkinter GUI Application** that visually demonstrates various sorting algorithms in action, with **real-time animation**, **comparison & swap counters**, and **execution time tracking**.
@@ -29,15 +27,16 @@ A **Python Tkinter GUI Application** that visually demonstrates various sorting 
 ## 📸 Preview
 > *(Add a GIF or screenshot here after recording your app)*
 Example:
-![Sorting Visualizer Demo](demo.gif)
+![Sorting Visualizer Demo](Demonstration.mp4)
 
 ---
 
 ## 📂 Project Structure
 Sorting-Visualizer/
-│── sorting_visualizer.py # Main application
-│── requirements.txt # Dependencies
-│── README.md # Project documentation
+├── sorting_visualizer.py      # Main application
+├── requirements.txt           # Dependencies
+└── README.md                  # Project documentation
+
 
 
 ---
@@ -95,7 +94,7 @@ This project is licensed under the **MIT License** – you can use, modify, and 
 ---
 
 ## 💡 Author
-**Your Name**  
+**Aditya Chandel**  
 [GitHub Profile](https://github.com/Adi1972004)
 
 ---
