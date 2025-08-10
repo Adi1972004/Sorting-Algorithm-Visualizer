@@ -32,10 +32,12 @@ Example:
 ---
 
 ## 📂 Project Structure
+```
 Sorting-Visualizer/
-├── sorting_visualizer.py      # Main application
-├── requirements.txt           # Dependencies
-└── README.md                  # Project documentation
+├── sorting_visualizer.py
+├── requirements.txt
+└── README.md
+```
 
 
 
